@@ -1,2 +1,3 @@
-# Walletwise-Apps
-Walletwise - Aplikasi pengelola keuangan berbasis mobile
+# walletwise_app
+
+A new Flutter project.
